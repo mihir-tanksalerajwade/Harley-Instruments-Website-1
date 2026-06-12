@@ -1,0 +1,6 @@
+{
+  "name": "Harley Research Equipment",
+  "description": "Elite B2B scientific and search equipment company specializing in thin-film systems, laser micromachining, plasma de-contamination, and TEM prep since 1987.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
